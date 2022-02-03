@@ -54,7 +54,7 @@ const Home = () => {
       />
         <MainLayout margin={false}>
         <h1 className="text-6xl font-bold"> Kherici Oussama </h1>
-        <p className="text-lg text-gray-400 dark:text-gray-250 max-w-sm mt-2">
+        <p className="text-lg text-gray-200 dark:text-gray-220 max-w-sm mt-2">
         <span className="font-semibold"> A Self-taught web Developer and Graphic designer </span>  from Algeria.
         </p>
       
