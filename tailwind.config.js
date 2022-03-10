@@ -7,6 +7,9 @@ module.exports = {
   theme: {
     fontSize: {
       '6xl': '2.75rem',
+    }
+  }
+}
     extend: {
       typography: (theme) => ({
         DEFAULT: {

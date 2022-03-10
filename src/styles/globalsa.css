@@ -105,3 +105,7 @@ pre[class*='language-'] {
 .remark-code-title + pre {
   @apply mt-0 rounded-t-none;
 }
+.text-6xl {
+  font-size: 2.75rem;
+  line-height: 1
+}
