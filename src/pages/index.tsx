@@ -53,7 +53,7 @@ const Home = () => {
         description=" A Self-taught Developer and Graphic designer from Algeria."
       />
         <MainLayout margin={false}>
-        <h1 className="text-6xl font-bold"> Kherici Oussama </h1>
+        <h1 className="text-5xl font-bold"> Kherici Oussama </h1>
         <p className="text-lg text-gray-200 dark:text-gray-220 max-w-sm mt-2">
         <span className="font-semibold"> A Self-taught web Developer and Graphic designer </span>  from Algeria.
         </p>
@@ -76,7 +76,14 @@ const Home = () => {
         </div>
         <div>
           <NowPlayingCard />
-        </div>
+      </div>
+      <div>
+<a title="Real Time Web Analytics" href="http://clicky.com/101357114"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async src="//static.getclicky.com/101357114.js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101357114ns.gif" /></p></noscript>
+ </body>
+</html>
+</div>
       </MainLayout>
   </>
 
