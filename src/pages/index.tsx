@@ -77,13 +77,6 @@ const Home = () => {
         <div>
           <NowPlayingCard />
       </div>
-      <div>
-<a title="Real Time Web Analytics" href="http://clicky.com/101357114"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
-<script async src="//static.getclicky.com/101357114.js"></script>
-<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101357114ns.gif" /></p></noscript>
- </body>
-</html>
-</div>
       </MainLayout>
   </>
 
