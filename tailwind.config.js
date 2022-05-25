@@ -83,8 +83,7 @@ module.exports = {
         xs: '481px',
       },
       fontSize: {
-        'xxs': '0.7rem',
-        '6xl': '2.75rem',
+        xxs: '0.7rem',
       },
     },
   },

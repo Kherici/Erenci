@@ -27,7 +27,7 @@ jobs:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
       env:
-          NEXT_PUBLIC_URL: /Erenci  
+          NEXT_PUBLIC_URL: /krc  
     - run: npm install -g yarn     
     - run: yarn 
     - run: yarn run build 
