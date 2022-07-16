@@ -37,7 +37,7 @@ const Home = () => {
   const { theme } = useTheme()
 
   const copyEmail = () => {
-    navigator.clipboard.writeText('Kherici16@outlook.com')
+    navigator.clipboard.writeText('info@kherici.design')
     theme === 'dark'
       ? toast.success('Copied email to clipboard!', {
           style: {
@@ -53,7 +53,7 @@ const Home = () => {
         description=" A Self-taught Developer and Graphic designer from Algeria."
       />
         <MainLayout margin={false}>
-        <h1 className="text-6xl font-bold"> Kherici Oussama </h1>
+        <h1 className="text-6xl font-bold"> Erenci </h1>
         <p className="text-lg text-gray-200 dark:text-gray-220 max-w-sm mt-2">
         <span className="font-semibold"> A Self-taught web Developer and Graphic designer </span>  from Algeria.
         </p>
